@@ -32,10 +32,7 @@ It’s perfect for developers, designers, or freelancers looking to create a vis
 
 ## 🎥 Demo / Screenshots
 
-> 🔗 
-
-Example:  
-![Portfolio Screenshot](assets/images/preview.png)
+<img width="1896" height="954" alt="Screenshot 2025-10-16 224722" src="https://github.com/user-attachments/assets/7cbdd450-2d9a-47ab-b552-a1d5f7cac65e" />
 
 ---
 
@@ -87,5 +84,12 @@ animated-portfolio/
 
 ```
 
+
+## 🎥 Tutorial
+
+This project was inspired by the instructor’s tutorial:  
+[Yutube Channel | Instructor](https://youtu.be/yqeP61aLQ1M?si=ry6BswsleC3X0UBR)  
 💬 Acknowledgments
 Feel free to use if u want ...
+
+
